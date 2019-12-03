@@ -1,0 +1,187 @@
+[
+    {
+        "Sound": "../assets/sound/a",
+        "Image": "../assets/images/a.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "A"
+
+    },
+    {
+        "Sound": "../assets/sound/b",
+        "Image": "../assets/images/b.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "B"
+
+    },
+    {
+        "Sound": "../assets/sound/c",
+        "Image": "../assets/images/c.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "C"
+    },
+    {
+        "Sound": "../assets/sound/d",
+        "Image": "../assets/images/d.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "D"
+    },
+    {
+        "Sound": "../assets/sound/e",
+        "Image": "../assets/images/e.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "E"
+    },
+    {
+        "Sound": "../assets/sound/f",
+        "Image": "../assets/images/f.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "F"
+    },
+    {
+        "Sound": "../assets/sound/g",
+        "Image": "../assets/images/g.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "G"
+    },
+    {
+        "Sound": "../assets/sound/h",
+        "Image": "../assets/images/h.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "H"
+    },
+    {
+        "Sound": "../assets/sound/i",
+        "Image": "../assets/images/i.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "I"
+    },
+    {
+        "Sound": "../assets/sound/i",
+        "Image": "../assets/images/i.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "J"
+    },
+    {
+        "Sound": "../assets/sound/k",
+        "Image": "../assets/images/k.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "K"
+    },
+    {
+        "Sound": "../assets/sound/l",
+        "Image": "../assets/images/l.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "L"
+    },
+    {
+        "Sound": "../assets/sound/m",
+        "Image": "../assets/images/m.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "M"
+    },
+    {
+        "Sound": "../assets/sound/n",
+        "Image": "../assets/images/n.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "N"
+    },
+    {
+        "Sound": "../assets/sound/o",
+        "Image": "../assets/images/o.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "O"
+    },
+    {
+        "Sound": "../assets/sound/p",
+        "Image": "../assets/images/p.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "P"
+    },
+    {
+        "Sound": "../assets/sound/q",
+        "Image": "../assets/images/q.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "Q"
+    },
+    {
+        "Sound": "../assets/sound/r",
+        "Image": "../assets/images/r.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "R"
+    },
+    {
+        "Sound": "../assets/sound/s",
+        "Image": "../assets/images/s.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "S"
+    },
+    {
+        "Sound": "../assets/sound/t",
+        "Image": "../assets/images/t.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "T"
+    },
+    {
+        "Sound": "../assets/sound/u",
+        "Image": "../assets/images/u.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "U"
+    },
+    {
+        "Sound": "../assets/sound/v",
+        "Image": "../assets/images/v.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "V"
+    },
+    {
+        "Sound": "../assets/sound/w",
+        "Image": "../assets/images/w.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "W"
+    },
+    {
+        "Sound": "../assets/sound/x",
+        "Image": "../assets/images/x.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "X"
+    },
+    {
+        "Sound": "../assets/sound/y",
+        "Image": "../assets/images/y.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "Y"
+    },
+    {
+        "Sound": "../assets/sound/z",
+        "Image": "../assets/images/z.png",
+        "French": "Arbre",
+        "English": "Tree",
+        "Text": "Z"
+    }
+
+]
